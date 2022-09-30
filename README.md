@@ -1,1 +1,1 @@
-# class_training for 2022
+# class_training
