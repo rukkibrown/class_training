@@ -1,1 +1,1 @@
-# class_training for the year
+# class for the year
